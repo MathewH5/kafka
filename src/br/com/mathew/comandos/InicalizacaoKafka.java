@@ -1,4 +1,4 @@
-package be.com.mathew.comandos;
+package br.com.mathew.comandos;
 
 // ir ate o local do arquivo
 // cd(local)
